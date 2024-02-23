@@ -1,5 +1,30 @@
 {
-    "users": [],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": "df65",
+      "name": "Noel Rippin"
+    },
+    {
+      "id": "4bc5",
+      "name": "Philip Carroll"
+    },
+    {
+      "id": "5030",
+      "name": "Cassandra Jaskolski"
+    },
+    {
+      "id": "9798",
+      "name": "Marta Schulist"
+    },
+    {
+      "id": "7a89",
+      "name": "Victor Nitzsche"
+    },
+    {
+      "id": "506d",
+      "name": "Mr. Johanna Rodriguez"
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
