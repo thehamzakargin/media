@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "id": "df65",
-      "name": "Noel Rippin"
-    },
-    {
       "id": "4bc5",
       "name": "Philip Carroll"
     },
@@ -23,8 +19,162 @@
     {
       "id": "506d",
       "name": "Mr. Johanna Rodriguez"
+    },
+    {
+      "id": "1615",
+      "name": "Colleen Dickens"
+    },
+    {
+      "id": "4de7",
+      "name": "Marta Abshire"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": 9798
+    },
+    {
+      "id": "4c91",
+      "userId": null,
+      "title": "Sleek Metal Shoes"
+    },
+    {
+      "id": "71fa",
+      "userId": null,
+      "title": "Luxurious Steel Computer"
+    },
+    {
+      "id": "e659",
+      "userId": null,
+      "title": "Fantastic Soft Computer"
+    },
+    {
+      "id": "51f8",
+      "userId": "9798",
+      "title": "Sleek Frozen Bacon"
+    },
+    {
+      "id": "5a96",
+      "userId": "506d",
+      "title": "Handmade Frozen Bike"
+    },
+    {
+      "id": "0188",
+      "userId": null,
+      "title": "Unbranded Metal Towels"
+    },
+    {
+      "id": "0b62",
+      "userId": null,
+      "title": "Awesome Plastic Table"
+    },
+    {
+      "id": "22b4",
+      "userId": null,
+      "title": "Licensed Fresh Ball"
+    },
+    {
+      "id": "50ed",
+      "userId": null,
+      "title": "Awesome Frozen Keyboard"
+    },
+    {
+      "id": "05c3",
+      "userId": null,
+      "title": "Refined Granite Ball"
+    },
+    {
+      "id": "947d",
+      "userId": "4bc5",
+      "title": "Small Metal Chips"
+    },
+    {
+      "id": "34c0",
+      "userId": "4bc5",
+      "title": "Elegant Soft Soap"
+    },
+    {
+      "id": "c584",
+      "userId": null,
+      "title": "Recycled Cotton Tuna"
+    },
+    {
+      "id": "0982",
+      "userId": null,
+      "title": "Bespoke Concrete Shoes"
+    },
+    {
+      "id": "592d",
+      "userId": null,
+      "title": "Gorgeous Cotton Table"
+    },
+    {
+      "id": "1a03",
+      "userId": null,
+      "title": "Tasty Concrete Chicken"
+    },
+    {
+      "id": "79b1",
+      "userId": "4bc5",
+      "title": "Awesome Rubber Shirt"
+    },
+    {
+      "id": "6993",
+      "userId": "4bc5",
+      "title": "Rustic Steel Tuna"
+    },
+    {
+      "id": "a0b1",
+      "userId": "9798",
+      "title": "Handcrafted Bronze Computer"
+    },
+    {
+      "id": "ab83",
+      "userId": "4bc5",
+      "title": "Small Metal Tuna"
+    },
+    {
+      "id": "7694",
+      "userId": "5030",
+      "title": "Practical Plastic Table"
+    },
+    {
+      "id": "2d49",
+      "userId": "5030",
+      "title": "Elegant Frozen Cheese"
+    },
+    {
+      "id": "819b",
+      "userId": "5030",
+      "title": "Refined Soft Chicken"
+    },
+    {
+      "id": "a9ff",
+      "userId": "5030",
+      "title": "Modern Concrete Chips"
+    },
+    {
+      "id": "1375",
+      "userId": "9798",
+      "title": "Fantastic Bronze Salad"
+    },
+    {
+      "id": "e050",
+      "userId": "9798",
+      "title": "Tasty Metal Cheese"
+    },
+    {
+      "id": "9e84",
+      "userId": "9798",
+      "title": "Oriental Granite Bike"
+    },
+    {
+      "id": "7bd1",
+      "userId": "9798",
+      "title": "Sleek Frozen Bike"
+    }
+  ],
   "photos": []
 }
