@@ -19,6 +19,6 @@ setupListeners(store.dispatch);
 export * from './thunk/fetchUsers';
 export * from './thunk/addUser';
 export * from './thunk/removeUser';
-export { useFetchAlbumsQuery, useAddAlbumMutation } from './apis/albumsApi';
+export { useFetchAlbumsQuery, useAddAlbumMutation, useRemoveAlbumMutation } from './apis/albumsApi';
 
 // exporttan sonraki yildizin anlami gosterilen dosyanin icindenki exportu ayni sekilde bu dosyayada aktarmak anlamina geliyor sonrasinda bu dosyadan da export ediyoruz
